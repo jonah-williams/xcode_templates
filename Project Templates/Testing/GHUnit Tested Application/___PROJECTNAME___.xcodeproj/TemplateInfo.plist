@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Description</key>
+	<string>This template provides a single view controller and nib file containing a view. It has been customized to add support for unit testing using the hamcrest and OCMock frameworks and GTM test classes, a unit tests target to run the tests and additional resource groups.</string>
+</dict>
+</plist>

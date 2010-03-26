@@ -1,0 +1,4 @@
+{
+	MainTemplateFile = "class.m";
+	Description = "A GTM SenTestCase class file, with imports to support hamcrest matchers and OCMock.";
+}
