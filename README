@@ -1,3 +1,4 @@
 File and project templates for Xcode.
 
-Install in ~/Library/Application Support/Developer/Shared/Xcode/ or /Library/Application Support/Developer/Shared/Xcode and restart Xcode.
+Clone to ~/Library/Application Support/Developer/Shared/Xcode/ or /Library/Application Support/Developer/Shared/Xcode and restart Xcode.
+These templates will be added to a 'Testing' section of the New File/Project window.
