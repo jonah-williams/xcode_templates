@@ -2,3 +2,19 @@ File and project templates for Xcode.
 
 Clone to ~/Library/Application Support/Developer/Shared/Xcode/ or /Library/Application Support/Developer/Shared/Xcode and restart Xcode.
 These templates will be added to a 'Testing' section of the New File/Project window.
+
+OCUnit
+http://developer.apple.com/mac/articles/tools/unittestingwithxcode3.html
+
+GTM (Google Toolbox for Mac)
+http://code.google.com/p/google-toolbox-for-mac/wiki/iPhoneUnitTesting
+
+GHUnit
+http://github.com/gabriel/gh-unit
+
+OCMock
+http://www.mulle-kybernetik.com/software/OCMock/
+
+Hamcrest
+http://code.google.com/p/hamcrest/
+
