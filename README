@@ -3,6 +3,9 @@ File and project templates for Xcode.
 Clone to ~/Library/Application Support/Developer/Shared/Xcode/ or /Library/Application Support/Developer/Shared/Xcode and restart Xcode.
 These templates will be added to a 'Testing' section of the New File/Project window.
 
+The GTM example should work with OS 3.2
+The GHUnit example has yet to be updated to run on 3.2/iPad
+
 OCUnit
 http://developer.apple.com/mac/articles/tools/unittestingwithxcode3.html
 
